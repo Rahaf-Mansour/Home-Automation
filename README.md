@@ -36,8 +36,8 @@ It's a system that allows the user to control various aspects of his/her home us
 
 
 ## Video Demo
-<!-- [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
- -->
+Watch the video: [[Video link]](https://drive.google.com/file/d/1wVOIRvlFE0CDaykv3QnUpUoXxQLUHcIG/view?usp=sharing)
+
 ## Additional Resources
 - [Article: Building a Voice-Controlled Smart Home](https://drive.google.com/file/d/18lYXL48CJIC80BdmO6eojvxKjHDZoQDv/view?usp=sharing) - Learn more about the development process and implementation details of this project.
 
@@ -49,7 +49,7 @@ Feel free to customize the code according to your specific needs. You can add ne
 If you encounter any issues or have questions, please refer to the documentation or seek assistance from me.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [[LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)] file for details.
 
 ## Acknowledgments
 - [pyttsx3](https://pypi.org/project/pyttsx3/) - Text-to-speech library for Python
